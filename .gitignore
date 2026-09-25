@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+data/raw/*
+!data/raw/.gitkeep
+processed/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+
+# Output artifacts
+outputs/charts/*.png
+outputs/tables/*.csv
