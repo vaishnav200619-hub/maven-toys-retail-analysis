@@ -71,4 +71,4 @@ The Streamlit dashboard is in dashboard/app.py and reads the processed dataset f
 3. Start the dashboard: streamlit run dashboard/app.py
 
 ## Author
-BSc Data Science student
+Vaishnav Gopakumar
